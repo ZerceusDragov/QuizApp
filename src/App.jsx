@@ -1,10 +1,10 @@
-import { useState } from 'react'
-
+import Homepage from "./components/Homepage"
 function App() {
 
   return (
-    <h2>Welcome to the Quiz App</h2>
+    <Homepage />
   )
 }
 
 export default App
+
